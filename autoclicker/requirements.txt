@@ -1,0 +1,6 @@
+certifi==2020.12.5
+pyHook @ file:///D:/Software/Anaconda3/envs/ME5406/MyLib/pyHook-1.5.1-cp36-cp36m-win_amd64.whl
+PyMouse==1.0
+PyUserInput==0.1.11
+pywin32==302
+wincertstore==0.2
